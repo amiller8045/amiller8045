@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/amiller8045/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/amiller8045/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  -  [VPN: Setup and Usag](https://github.com/amiller8045/vpn)
+  -  [VPN: Setup and Usage](https://github.com/amiller8045/vpn)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/amiller8045/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
